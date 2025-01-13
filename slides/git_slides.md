@@ -335,6 +335,7 @@ git checkout <branch_name>
 
 ## Pushing a local branch remotely
 ```bash
+git remote add origin <URL remote repository>
 git push origin <new_local_branch_name>
 ```
 
